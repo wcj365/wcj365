@@ -1,6 +1,4 @@
-# 【About 关于】
-
-![](author.png)
+# 【Dr. Chaojie (Jay) Wang】
 
 *Always curious，Forever exploring。*  
 路漫漫其修远兮，吾将上下而求索。
@@ -36,9 +34,10 @@
 
 ## Industry
 
-* **Principal Systems Engineer**, The MITRE Corp. 2016 to Present
-* **Software Engineer Sr. Staff**, Lockheed Martin Corp. 2006 to 2016
-* **Vice President of Prod. Dev.**, Regent Education, Inc. 2013 to 2016
+* **Sr. IT Specialist/Data Analyst**, The US GAO (2023 - Present)
+* **Principal Systems Engineer**, The MITRE Corp. (2016 - 2023)
+* **Software Engineer Sr. Staff**, Lockheed Martin Corp. (2006 - 2016)
+* **Vice President of Prod. Dev.**, Regent Education, Inc. (2013 - 2016)
 
 ## Professional
 
@@ -54,7 +53,8 @@
 
 ## Software
 
-- [World Development Explorer 世界发展探索网](https://www.worlddev.xyz)
+- [G7 vs BRICS](https://g7brics.streamlit.app)
+- [World Development Explorer 世界发展探索网](https://world-dev.streamlit.app)
 - [Dialysis Care Quality Explorer 美国血透质量探索网](https://public.tableau.com/profile/wcj365)
 
 ## Teaching

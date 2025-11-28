@@ -1,6 +1,6 @@
 # Dr. Chaojie (Jay) Wang
 
-*Life is short. I use Python*  
+*Life is short. I use Python.*  
 
 ## whoami? 
 

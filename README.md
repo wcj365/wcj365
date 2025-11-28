@@ -1,7 +1,6 @@
-# 【Dr. Chaojie (Jay) Wang】
+# Dr. Chaojie (Jay) Wang
 
-*Always curious，Forever exploring。*  
-路漫漫其修远兮，吾将上下而求索。
+*Life is short. I use Python*  
 
 ## whoami? 
 
